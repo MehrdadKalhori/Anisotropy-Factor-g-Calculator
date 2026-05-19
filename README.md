@@ -70,6 +70,14 @@ This script is highly flexible and can be executed across multiple modern develo
 * **Standalone Python Script:** Can be run directly from any standard terminal or command prompt.
 
 ---
+## 📖 Related Publication
+The mathematical logic and physical principles behind this calculator were utilized and validated in our recent publication regarding soft tissue biomaterials. If you use this tool in your research, please consider referring to our paper:
+
+**"Modulation of Optical Anisotropy in Soft Tissue Biomaterials Using Optical Clearing Agents: Implications for Structural Characterization and Biomedical Applications."**
+*Progress in Biomaterials (2024)*.
+* **Focus:** Investigating the optical properties of tissue using clearing agents (e.g., Sorbitol, Glycerol) and their effect on the scattering anisotropy factor at 532 nm.
+* **DOI:** [10.57647/pibm.2024.132412](https://doi.org/10.57647/pibm.2024.132412)
+
 
 ## 5. Environment Setup & Installation
 
