@@ -75,6 +75,8 @@ This script is highly flexible and can be executed across multiple modern develo
 
 To run this application, you must install the required scientific computing and data analysis libraries. You can install all dependencies with a single command using `pip`:
 
+Crafted by Mehrdad Y. Kalhori, straight out of the Wild West of Lorestan, Iran 🤠
+
 ```bash
 pip install numpy pandas matplotlib openpyxl
 
