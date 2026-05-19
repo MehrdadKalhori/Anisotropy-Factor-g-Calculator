@@ -77,3 +77,5 @@ To run this application, you must install the required scientific computing and 
 
 ```bash
 pip install numpy pandas matplotlib openpyxl
+
+python anisotropy_calculator.py
