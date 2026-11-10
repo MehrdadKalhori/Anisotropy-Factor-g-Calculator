@@ -92,3 +92,27 @@ Crafted by Mehrdad Y. Kalhori, straight out of the Wild West of Lorestan, Iran �
 pip install numpy pandas matplotlib openpyxl
 
 python anisotropy_calculator.py
+
+
+
+## Related Research Software
+
+### SCATTERIX — Optical Goniometry Research Platform
+
+SCATTERIX is a research-oriented platform developed for Arduino-controlled optical goniometry, experimental signal acquisition, and angular light-scattering analysis.
+
+The platform provides a complementary experimental measurement environment for research involving optical scattering and anisotropy.
+
+**SCATTERIX — Version 1.0.0**
+
+- [GitHub Repository](https://github.com/MehrdadKalhori/SCATTERIX)
+- [DOI: 10.5281/zenodo.24118358](https://doi.org/10.5281/zenodo.24118358)
+
+### Anisotropy Factor (g) Calculator Citation
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24118450.svg)](https://doi.org/10.5281/zenodo.24118450)
+
+---
+
+Crafted by Mehrdad Y. Kalhori, straight out of the Wild West of Lorestan, Iran 🤠
+
