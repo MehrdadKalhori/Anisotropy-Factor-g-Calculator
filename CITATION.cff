@@ -1,0 +1,11 @@
+
+cff-version: 1.2.0
+message: "If you use this software, please cite it."
+title: "Anisotropy Factor (g) Calculator"
+authors:
+  - family-names: "Kalhori"
+    given-names: "Mehrdad Y."
+version: 1.0.0
+doi: 10.5281/zenodo.24118450
+repository-code: "https://github.com/MehrdadKalhori/Anisotropy-Factor-g-Calculator"
+type: software
