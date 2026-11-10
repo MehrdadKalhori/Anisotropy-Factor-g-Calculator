@@ -1,4 +1,7 @@
 # Anisotropy-Factor-g-Calculator
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24118450.svg)](https://doi.org/10.5281/zenodo.24118450)
+
 A Python GUI tool for calculating the optical anisotropy factor (g) from forward scattering goniometric data.
 # Forward Scattering Anisotropy Factor ($g$) Estimation from Goniometric Measurements
 
