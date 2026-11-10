@@ -82,17 +82,6 @@ The mathematical logic and physical principles behind this calculator were utili
 * **DOI:** [10.57647/pibm.2024.132412](https://doi.org/10.57647/pibm.2024.132412)
 
 
-## 5. Environment Setup & Installation
-
-To run this application, you must install the required scientific computing and data analysis libraries. You can install all dependencies with a single command using `pip`:
-
-Crafted by Mehrdad Y. Kalhori, straight out of the Wild West of Lorestan, Iran 🤠
-
-```bash
-pip install numpy pandas matplotlib openpyxl
-
-python anisotropy_calculator.py
-
 
 
 ## Related Research Software
@@ -111,6 +100,18 @@ The platform provides a complementary experimental measurement environment for r
 ### Anisotropy Factor (g) Calculator Citation
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24118450.svg)](https://doi.org/10.5281/zenodo.24118450)
+## 5. Environment Setup & Installation
+
+To run this application, you must install the required scientific computing and data analysis libraries. You can install all dependencies with a single command using `pip`:
+
+Crafted by Mehrdad Y. Kalhori, straight out of the Wild West of Lorestan, Iran 🤠
+
+```bash
+pip install numpy pandas matplotlib openpyxl
+
+python anisotropy_calculator.py
+
+
 
 ---
 
